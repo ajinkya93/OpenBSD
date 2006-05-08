@@ -1,4 +1,4 @@
-/*	$OpenBSD: dartvar.h,v 1.1.1.1 2006/05/08 18:44:10 miod Exp $	*/
+/*	$OpenBSD: dartvar.h,v 1.1 2006/05/08 18:44:10 miod Exp $	*/
 
 /*
  * Mach Operating System
