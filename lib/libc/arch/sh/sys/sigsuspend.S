@@ -1,4 +1,4 @@
-/*	$OpenBSD: sigsuspend.S,v 1.1.1.1 2006/10/10 22:07:10 miod Exp $	*/
+/*	$OpenBSD: sigsuspend.S,v 1.1 2006/10/10 22:07:10 miod Exp $	*/
 /*	$NetBSD: sigsuspend.S,v 1.5 2003/08/07 16:42:21 agc Exp $	*/
 
 /*-

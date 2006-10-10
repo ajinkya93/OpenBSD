@@ -1,4 +1,4 @@
-/*	$OpenBSD: sigprocmask.S,v 1.1.1.1 2006/10/10 22:07:10 miod Exp $	*/
+/*	$OpenBSD: sigprocmask.S,v 1.1 2006/10/10 22:07:10 miod Exp $	*/
 /*	$NetBSD: sigprocmask.S,v 1.6 2003/08/07 16:42:21 agc Exp $	*/
 
 /*-
