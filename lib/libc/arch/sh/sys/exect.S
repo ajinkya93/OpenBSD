@@ -1,4 +1,4 @@
-/*	$OpenBSD: exect.S,v 1.1.1.1 2006/10/10 22:07:10 miod Exp $	*/
+/*	$OpenBSD: exect.S,v 1.1 2006/10/10 22:07:10 miod Exp $	*/
 /*	$NetBSD: exect.S,v 1.5 2006/01/06 01:53:30 uwe Exp $	*/
 
 /*-
