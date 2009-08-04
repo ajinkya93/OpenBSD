@@ -1,4 +1,4 @@
-/* $OpenBSD: disklabel.h,v 1.1.1.1 2009/08/04 20:26:39 miod Exp $ */
+/* $OpenBSD: disklabel.h,v 1.1 2009/08/04 20:26:39 miod Exp $ */
 /* public domain */
 
 /*
